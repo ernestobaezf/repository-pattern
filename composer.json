@@ -1,5 +1,5 @@
 {
-    "name": "psr/repository",
+    "name": "psrx/repository",
     "description": "This package defines a general interface for the Repository pattern.",
     "keywords": ["repository", "laravel", "package", "manager", "structure", "standard", "repository pattern", "LSP", "Liskov"],
     "type": "library",
@@ -16,7 +16,7 @@
         }
     },
     "require": {
-        "php": "^7.1"
+        "php": "^7.2"
     },
     "require-dev": {
         "nunomaduro/larastan": "^0.3.16"
