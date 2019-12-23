@@ -1,5 +1,5 @@
 <?php
-namespace Psr\Repository;
+namespace Psrx\Repository;
 
 
 use Exception;

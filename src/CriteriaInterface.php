@@ -3,8 +3,7 @@
  * @author Ernesto Baez
  */
 
-namespace Psr\Repository;
-
+namespace Psrx\Repository;
 
 /**
  * Interface CriteriaInterface

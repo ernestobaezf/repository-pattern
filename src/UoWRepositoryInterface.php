@@ -1,9 +1,9 @@
 <?php
-namespace Psr\Repository;
+/**
+ * @author Ernesto Baez
+ */
 
-
-use Exception;
-use Illuminate\Support\Collection;
+namespace Psrx\Repository;
 
 /**
  * Unit of Work repository interface.
