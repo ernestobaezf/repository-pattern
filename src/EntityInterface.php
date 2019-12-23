@@ -11,7 +11,7 @@ use stdClass;
 /**
  * Interface EntityInterface
  *
- * @package Psr\Repository
+ * @package Psrx\Repository
  */
 interface EntityInterface
 {

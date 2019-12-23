@@ -7,7 +7,7 @@ use Exception;
 /**
  * Interface RepositoryInterface
  *
- * @package Psr\Repository
+ * @package Psrx\Repository
  */
 interface RepositoryInterface
 {

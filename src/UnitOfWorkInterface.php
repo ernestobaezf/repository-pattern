@@ -8,7 +8,7 @@ namespace Psrx\Repository;
 /**
  * Interface UnitOfWorkInterface
  *
- * @package Psr\Repository
+ * @package Psrx\Repository
  */
 interface UnitOfWorkInterface
 {

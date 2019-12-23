@@ -10,7 +10,7 @@ namespace Psrx\Repository;
  *
  * Interface UoWRepositoryInterface
  *
- * @package Psr\Repository
+ * @package Psrx\Repository
  */
 interface UoWRepositoryInterface extends RepositoryInterface
 {
