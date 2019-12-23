@@ -1,0 +1,24 @@
+{
+    "name": "psr/repository",
+    "description": "This package defines a general interface for the Repository pattern.",
+    "keywords": ["repository", "laravel", "package", "manager", "structure", "standard", "repository pattern", "LSP", "Liskov"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ernesto Baez",
+            "homepage": "https://github.com/ernestobaezf"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Psr\\Repository\\": "Psr/Repository/"
+        }
+    },
+    "require": {
+        "php": "^7.1"
+    },
+    "require-dev": {
+        "nunomaduro/larastan": "^0.3.16"
+    }
+}
