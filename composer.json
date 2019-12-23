@@ -1,6 +1,6 @@
 {
     "name": "psrx/repository",
-    "description": "This package defines a general interface for the Repository pattern.",
+    "description": "This package defines general interfaces for Entity repository pattern.",
     "keywords": ["repository", "laravel", "package", "manager", "structure", "standard", "repository pattern", "LSP", "Liskov"],
     "type": "library",
     "license": "MIT",
@@ -12,7 +12,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Psr\\Repository\\": "Psr/Repository/"
+            "Psr-x\\Repository\\": "src/"
         }
     },
     "require": {
